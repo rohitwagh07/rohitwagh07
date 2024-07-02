@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Hi 👋, I'm Aman Kadam</h1>
+<h1 align="center">Hi 👋, I'm Rohit Wagh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="370" src = "https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
 
